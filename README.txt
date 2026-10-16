@@ -32,3 +32,5 @@ IMPORTANT
 This is a static website starter. The enquiry form opens WhatsApp; it does not
 save bookings to a database or send email. Do not publish sensitive customer
 information on the site.
+
+FOOD PHOTOS: The images folder contains the JLCS food images referenced by index.html. Keep the images folder beside index.html when uploading to GitHub Pages.
