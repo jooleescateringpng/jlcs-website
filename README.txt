@@ -1,24 +1,34 @@
-JOO LEE'S CATERING SERVICES — WEBSITE STARTER (IMAGE VERSION)
-============================================================
+JOO LEE'S CATERING SERVICES — WEBSITE STARTER
+===============================================
 
 FILES
-- index.html   Main website page, including menu and food gallery
+- index.html   Main website page
 - styles.css   Layout, colours and mobile-responsive styling
 - script.js    Mobile menu and WhatsApp enquiry form
-- images/      Illustrative food image assets used on the site
 
-UPLOAD TO INFINITYFREE
-1. In File Manager, open /htdocs.
-2. Upload index.html, styles.css and script.js directly into /htdocs.
-3. Upload the entire images folder into /htdocs so the image paths become
-   /htdocs/images/filename.jpg.
-4. If asked to overwrite index.html and styles.css, confirm the replacement.
-5. Keep existing hosting files until the new website is tested.
-6. Open the website and refresh with Ctrl+F5.
+HOW TO PREVIEW
+1. Extract this folder on your computer.
+2. Double-click index.html to preview it in your browser.
+
+HOW TO PUBLISH ON INFINITYFREE
+1. Sign in to InfinityFree and open your hosting account.
+2. Open File Manager (or connect with FTP).
+3. Open the website's htdocs folder.
+4. Upload index.html, styles.css and script.js directly into htdocs.
+   Do not upload the enclosing JLCS_Website folder as the website root.
+5. Visit the domain/subdomain shown in your InfinityFree account.
+6. If you see a default page, check that these files are inside the correct
+   htdocs folder and that index.html is present.
+
+BEFORE GOING PUBLIC
+- Confirm the preferred website address/subdomain.
+- Review all menu descriptions and pricing; no prices have been invented here.
+- Confirm the business location/service area and any business email address.
+- Test the WhatsApp link on a phone. It uses country code +675 and number 7140 7752.
+- Replace the illustrated food graphics with approved JLCS food photos when ready.
+- Add a privacy notice if you later introduce a form that stores customer data.
 
 IMPORTANT
-- Images are illustrative visual references, not actual photographs of JLCS food.
-- The enquiry form opens WhatsApp; it does not store bookings in a database.
-- The WhatsApp number configured in the page is +675 7140 7752; test it before
-  publishing widely.
-- Do not upload passwords or private customer data to the website.
+This is a static website starter. The enquiry form opens WhatsApp; it does not
+save bookings to a database or send email. Do not publish sensitive customer
+information on the site.
